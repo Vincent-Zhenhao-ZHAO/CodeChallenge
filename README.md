@@ -9,11 +9,11 @@
 
 ## Patterns
 
-1\. [Week1](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/kieran/hashMap)
+1\. [Week1](https://github.com/Vincent-Zhenhao-ZHAO/CodeChallenge/tree/main/week1)
 
-2\. [Week2](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/Vincent/linkList)
+2\. [Week2](https://github.com/Vincent-Zhenhao-ZHAO/CodeChallenge/tree/main/week2)
  
-3\. [Team_work](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/Vincent/Dynamic%20programming)
+3\. [Team_work](https://github.com/Vincent-Zhenhao-ZHAO/CodeChallenge/tree/main/team_work)
 
-  - [Vincent](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/Vincent/Dynamic%20programming/easy)
-  - [Kieran](https://github.com/Kieran-Arul/interview-prep/tree/main/src/com/Vincent/Dynamic%20programming/medium)
+  - [Vincent](https://github.com/Vincent-Zhenhao-ZHAO/CodeChallenge/tree/main/team_work/Vincent)
+  - [Kieran](https://github.com/Vincent-Zhenhao-ZHAO/CodeChallenge/tree/main/team_work/kieran)
