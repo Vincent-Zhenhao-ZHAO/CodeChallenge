@@ -1,0 +1,1 @@
+print(hashtable1,hashtable2)
