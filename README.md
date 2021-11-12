@@ -7,16 +7,35 @@
 - Problems will be from LeetCode.
 - If you notice any errors in my code, or perhaps optimisations I could make, please let me know!
 
-## Patterns
+## Weekly Challenge
 
 1\. [Week1](https://github.com/Vincent-Zhenhao-ZHAO/CodeChallenge/tree/main/week1)
 
 2\. [Week2](https://github.com/Vincent-Zhenhao-ZHAO/CodeChallenge/tree/main/week2)
- 
-3\. [Team_work](https://github.com/Vincent-Zhenhao-ZHAO/CodeChallenge/tree/main/team_work)
 
-  - [Vincent](https://github.com/Vincent-Zhenhao-ZHAO/CodeChallenge/tree/main/team_work/Vincent)
-  - [Kieran](https://github.com/Vincent-Zhenhao-ZHAO/CodeChallenge/tree/main/team_work/kieran)
+## Problems
+  - [Problems](https://github.com/Vincent-Zhenhao-ZHAO/CodeChallenge/tree/main/problems)
+
+## Patterns
+ 
+1\. [Dynamic Programming](https://github.com/Vincent-Zhenhao-ZHAO/CodeChallenge/tree/main/team_work_with_Kieran/patterns/dynamicProgramming)
+
+   - [Easy](https://github.com/Vincent-Zhenhao-ZHAO/CodeChallenge/tree/main/team_work_with_Kieran/patterns/dynamicProgramming/easy)
+   - [Medium](https://github.com/Vincent-Zhenhao-ZHAO/CodeChallenge/tree/main/team_work_with_Kieran/patterns/dynamicProgramming/medium)
+    
+2\. [hashmap](https://github.com/Vincent-Zhenhao-ZHAO/CodeChallenge/tree/main/team_work_with_Kieran/patterns/hashmap)
+
+   - [Easy](https://github.com/Vincent-Zhenhao-ZHAO/CodeChallenge/tree/main/team_work_with_Kieran/patterns/hashmap/easy)
+   - [Medium](https://github.com/Vincent-Zhenhao-ZHAO/CodeChallenge/tree/main/team_work_with_Kieran/patterns/hashmap/medium)
+    
+3\. [linkList](https://github.com/Vincent-Zhenhao-ZHAO/CodeChallenge/tree/main/team_work_with_Kieran/patterns/linkList)
+
+   - [Easy](https://github.com/Vincent-Zhenhao-ZHAO/CodeChallenge/tree/main/team_work_with_Kieran/patterns/linkList/easy)
+   - [Medium](https://github.com/Vincent-Zhenhao-ZHAO/CodeChallenge/tree/main/team_work_with_Kieran/patterns/linkList/medium)
+    
+4\. [slidingWindows](https://github.com/Vincent-Zhenhao-ZHAO/CodeChallenge/tree/main/team_work_with_Kieran/patterns/slidingWindow)
+
+   - [Easy](https://github.com/Vincent-Zhenhao-ZHAO/CodeChallenge/tree/main/team_work_with_Kieran/patterns/slidingWindow/easy/python)
 
 ## For Contributors
 
