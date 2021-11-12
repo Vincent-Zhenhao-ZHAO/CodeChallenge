@@ -17,6 +17,8 @@
   - [Problems](https://github.com/Vincent-Zhenhao-ZHAO/CodeChallenge/tree/main/problems)
 
 ## Patterns
+
+- [Reference](https://github.com/Kieran-Arul/interview-prep)
  
 1\. [Dynamic Programming](https://github.com/Vincent-Zhenhao-ZHAO/CodeChallenge/tree/main/team_work_with_Kieran/patterns/dynamicProgramming)
 
@@ -36,8 +38,6 @@
 4\. [slidingWindows](https://github.com/Vincent-Zhenhao-ZHAO/CodeChallenge/tree/main/team_work_with_Kieran/patterns/slidingWindow)
 
    - [Easy](https://github.com/Vincent-Zhenhao-ZHAO/CodeChallenge/tree/main/team_work_with_Kieran/patterns/slidingWindow/easy/python)
-
-- [Reference](https://github.com/Kieran-Arul/interview-prep)
 
 ## For Contributors
 
