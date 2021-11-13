@@ -1,0 +1,3 @@
+Find the longest substring within the string with these conditions:
+1. Must contain at least one upper case
+2. Must not contain any numbers
