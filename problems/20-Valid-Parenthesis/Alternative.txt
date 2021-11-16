@@ -1,0 +1,2 @@
+Write down the corresponding invere parenthesis array while appending to the current one, 
+if the closing parenthesis did not correspond to the one earlier, return false

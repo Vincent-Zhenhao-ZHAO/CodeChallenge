@@ -1,0 +1,1 @@
+For Python, could use if xx in xx to identify straight away if the string is in the main
