@@ -39,6 +39,14 @@
 
    - [Easy](https://github.com/Vincent-Zhenhao-ZHAO/CodeChallenge/tree/main/team_work_with_Kieran/patterns/slidingWindow/easy/python)
 
+
+5\. [Back Track] (https://github.com/Vincent-Zhenhao-ZHAO/CodeChallenge/tree/main/team_work_with_Kieran/patterns/BackTrack)
+  - [Medium](https://github.com/Vincent-Zhenhao-ZHAO/CodeChallenge/tree/main/team_work_with_Kieran/patterns/BackTrack/medium)
+
+
+6\. [Two Pointers] (https://github.com/Vincent-Zhenhao-ZHAO/CodeChallenge/tree/main/team_work_with_Kieran/patterns/twoPointers)
+  - [Easy](https://github.com/Vincent-Zhenhao-ZHAO/CodeChallenge/tree/main/team_work_with_Kieran/patterns/twoPointers/easy)
+
 ## For Contributors
 
 1\. Clone the repository (if you are a new contributor)
