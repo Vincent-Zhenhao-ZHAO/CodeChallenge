@@ -13,6 +13,8 @@
 
 2\. [Week2](https://github.com/Vincent-Zhenhao-ZHAO/CodeChallenge/tree/main/week2)
 
+3\. [Week3](https://github.com/Vincent-Zhenhao-ZHAO/CodeChallenge/tree/main/week3)
+
 ## Problems
   - [Problems](https://github.com/Vincent-Zhenhao-ZHAO/CodeChallenge/tree/main/problems)
 
